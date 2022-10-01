@@ -1,0 +1,4 @@
+# Constant variables
+
+PIE_CHART_WIDTH = 330
+PIE_CHART_HEIGHT = PIE_CHART_WIDTH
